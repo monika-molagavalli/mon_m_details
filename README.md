@@ -27,7 +27,7 @@ Approach to create an E.R.D.:
 - Match business requirements in a clustered way to designed entities, linking entities to entities with attributes listed from above point (make sure of entity to entity linkages via attributes).
 - Retain persistent entities with foreign keys for RDBMS (for other DBMS M-M is okay). Check use cases / performance when implemented with this / other E.R.D. designs in RDBMS.
 - Check for required normalization level on data, with below captured key SQL principles and check for the consistency in the ERD based on normalization.
->> Column indices, table indices
+>> Column indices, table indices,
 >> entity relationships, cardinality and modality, column indices / table indices
 >> optimization techniques, normalization techniques, transitive dependency
 
