@@ -12,11 +12,10 @@ You can click the Preview link to take a look at your changes.
 My thoughts on designing ERD:
 
 E.R.D.:
-
-How to read E.R.D.: https://www.ibm.com/docs/en/informix-servers/12.10?topic=SSGU8G_12.1.0/com.ibm.ddi.doc/ids_ddi_179.html
-Cardinality and Modality: https://medium.com/analytics-vidhya/an-in-depth-look-at-database-relationships-cardinality-modality-a3d6bba0ee1e
-Total participation and partial participation: https://www.ques10.com/p/9460/explain-total-participation-and-partial-participat/
-E.R.D. with persistent entities: https://www.modernanalyst.com/Resources/Articles/tabid/115/ID/2008/Data-Modeling-Entity-Relationship-Diagram-ER-Diagram.aspx
+- How to read E.R.D.: https://www.ibm.com/docs/en/informix-servers/12.10?topic=SSGU8G_12.1.0/com.ibm.ddi.doc/ids_ddi_179.html
+- Cardinality and Modality: https://medium.com/analytics-vidhya/an-in-depth-look-at-database-relationships-cardinality-modality-a3d6bba0ee1e
+- Total participation and partial participation: https://www.ques10.com/p/9460/explain-total-participation-and-partial-participat/
+- E.R.D. with persistent entities: https://www.modernanalyst.com/Resources/Articles/tabid/115/ID/2008/Data-Modeling-Entity-Relationship-Diagram-ER-Diagram.aspx
 
 
 Approach to create an E.R.D.:
