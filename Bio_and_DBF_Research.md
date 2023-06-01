@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Data Science Algorithms
 - 💞️ I’m looking to collaborate on Data Science and Analytics Projects
 - 📫 How to reach me on email via patilmonikareddy9@gmail.com
-- Pursuing master's program in M.S.B.A. Cohort Data Science at JSOM, UTD
 
 <!---
 monika-molagavalli/monika-molagavalli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
