@@ -30,3 +30,4 @@ Approach to create an E.R.D.:
 >> entity relationships, cardinality and modality, column indices / table indices,
 >> optimization techniques, normalization techniques, transitive dependency
 
+* Google Cloud has Cluster / N.N. / fully connected architecture; that some of the current databases lack.
